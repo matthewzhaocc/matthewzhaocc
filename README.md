@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, Matthew here 👋
 
-<!--
-**matthewzhaocc/matthewzhaocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+type dev struct {
+  name string,
+  age int,
+  location string,
+  langs []string,
+  technologies []string,
+  certificates []string,
+}
+func main() {
+  const matthew = new dev({
+    name: "Matthew Zhao",
+    age: 17
+    location: "Bay Area, California",
+    langs: [4]string{"nodejs/typescript", "python", "java", "golang"},
+    technologies: [10]string{"AWS", "GCP", "Kubernetes", "VMWare", "Terraform", "CDK/Cloudformation", "Gitlab CI", "GHA", "ArgoCD", "AWS Code*", "GCP Cloud*", "Snowflake", "more I can't think of from top of my head", "a lot of linux distros"},
+    certificates: [9]string{"AWS CCP", "AWS SAA", "AWS DVA", "AWS SOA", "AWS SAP", "AWS DOP", "AWS DAS", "AWS ANS", "AWS SCS"}
+  })
+}
+```
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewzhaocc.visitor-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthewzhaocc&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
