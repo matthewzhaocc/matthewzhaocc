@@ -3,7 +3,6 @@
 ```go
 type dev struct {
   name string,
-  age int,
   location string,
   langs []string,
   technologies []string,
@@ -12,7 +11,6 @@ type dev struct {
 func main() {
   const matthew = new dev({
     name: "Matthew Zhao",
-    age: 17
     location: "Bay Area, California",
     langs: [4]string{"nodejs/typescript", "python", "java", "golang"},
     technologies: [10]string{"AWS", "GCP", "Kubernetes", "VMWare", "Terraform", "CDK/Cloudformation", "Gitlab CI", "GHA", "ArgoCD", "AWS Code*", "GCP Cloud*", "Snowflake", "more I can't think of from top of my head", "a lot of linux distros"},
