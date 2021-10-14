@@ -22,3 +22,6 @@ func main() {
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewzhaocc.visitor-badge)
 
 [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthewzhaocc&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewzhaocc)](https://git.io/streak-stats)
