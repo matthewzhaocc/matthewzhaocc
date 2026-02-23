@@ -41,10 +41,6 @@ Data         Snowflake
 CI/CD        GitHub Actions · GitLab CI
 ```
 
-### AWS Certifications (9x)
-
-`SAP` `DOP` `SAA` `DVA` `SOA` `ANS` `SCS` `DAS` `CCP`
-
 ---
 
 <p>
