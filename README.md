@@ -1,27 +1,59 @@
-### Hi there, Matthew here 👋
+# Hey, I'm Matthew 👋
 
-```go
-type dev struct {
-  name string,
-  location string,
-  langs []string,
-  technologies []string,
-  certificates []string,
-}
-func main() {
-  const matthew = new dev({
-    name: "Matthew Zhao",
-    location: "Bay Area, California",
-    langs: [4]string{"nodejs/typescript", "python", "java", "golang"},
-    technologies: [10]string{"AWS", "GCP", "Kubernetes", "VMWare", "Terraform", "CDK/Cloudformation", "Gitlab CI", "GHA", "ArgoCD", "AWS Code*", "GCP Cloud*", "Snowflake", "more I can't think of from top of my head", "a lot of linux distros"},
-    certificates: [9]string{"AWS CCP", "AWS SAA", "AWS DVA", "AWS SOA", "AWS SAP", "AWS DOP", "AWS DAS", "AWS ANS", "AWS SCS"}
-  })
-}
+**Software Engineer [@xometry](https://github.com/xometry)** · Building **[@localskills-sh](https://github.com/localskills-sh)** & **[@ezgamehost](https://github.com/ezgamehost)** · ex [@fusebit](https://github.com/fusebit)
+
+---
+
+### What I'm building
+
+<table>
+<tr>
+<td width="50%">
+
+**[LocalSkills.sh](https://localskills.sh)** — *Public Beta*
+
+Create, share, and install reusable agent skills across your team. One CLI for Cursor, Claude Code, Windsurf, Copilot, Codex, and more.
+
+`npm i -g @localskills/cli`
+
+SAML SSO · SCIM · Audit Logging · Terraform Provider
+
+</td>
+<td width="50%">
+
+**[EZ Game Host](https://ezgamehost.com)**
+
+Game server hosting powered by AMD Ryzen 9 9950X. Servers up in under 60 seconds with 99.9% uptime SLA.
+
+Minecraft · Valheim · ARK · Terraria · Palworld · Factorio & more
+
+</td>
+</tr>
+</table>
+
+### Tech
+
+```
+Languages    TypeScript · Go · Python · Java
+Cloud        AWS · GCP
+Infra        Kubernetes · Terraform · ArgoCD · VMware
+Data         Snowflake
+CI/CD        GitHub Actions · GitLab CI
 ```
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewzhaocc.visitor-badge)
+### AWS Certifications (9x)
 
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=matthewzhaocc&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
+`SAP` `DOP` `SAA` `DVA` `SOA` `ANS` `SCS` `DAS` `CCP`
 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matthewzhaocc)](https://git.io/streak-stats)
+<p>
+  <a href="https://github.com/matthewzhaocc">
+    <img src="https://github-readme-stats.vercel.app/api?username=matthewzhaocc&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewzhaocc&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
