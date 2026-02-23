@@ -36,7 +36,7 @@ Minecraft · Valheim · ARK · Terraria · Palworld · Factorio & more
 ```
 Languages    TypeScript · Go · Python · Java
 Cloud        AWS · GCP
-Infra        Kubernetes · Terraform · ArgoCD · VMware
+Infra        Kubernetes · Terraform · ArgoCD · OpenStack
 Data         Snowflake
 CI/CD        GitHub Actions · GitLab CI
 ```
